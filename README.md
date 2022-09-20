@@ -49,6 +49,5 @@ Pixo using the [Pixabay API](https://pixabay.com/) for constructing RESTful API.
 Pixabay API provides a RESTful API interface to highly detailed objects built from thousands of lines of data related to Images.
 
 
-## Pixo | Stock Photo Mobile App UI | Dribbble
 
 
