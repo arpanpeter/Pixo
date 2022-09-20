@@ -51,5 +51,4 @@ Pixabay API provides a RESTful API interface to highly detailed objects built fr
 
 ## Pixo | Stock Photo Mobile App UI | Dribbble
 
-Used Ui/UX designs from [Dribbble](https://dribbble.com/) by [Raviteja Bandila](https://dribbble.com/shots/6031189-Pixo-Stock-Photo-Mobile-App-UI/attachments/6031189-Pixo-Stock-Photo-Mobile-App-UI?mode=media)
 
